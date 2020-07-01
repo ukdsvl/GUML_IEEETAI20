@@ -15,6 +15,7 @@ The Repository contains:
    Riemannian optimization with Pymanopt+PyTorch, in an end-to-end manner using 
    stochastic optimization. 
    The backbone neural network has a Triplet Network architecture.
+   (Inspired by https://github.com/ukdsvl/Facial-Similarity-with-Siamese-Networks-in-Pytorch/blob/master/Siamese-networks-medium.ipynb)
    
 4. rdml.yml: Contains the required conda environment to be cloned.
 ```
