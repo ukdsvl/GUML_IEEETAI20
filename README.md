@@ -21,7 +21,8 @@ The Repository contains:
    Riemannian optimization with Pymanopt+PyTorch, in an end-to-end manner using 
    stochastic optimization. The experiment is performed on the popular CUB dataset,
    which is a benchmark for the Fine-Grained Visual Categorization (FGVC) task
-   in deep metric learning. This code can easily be extended for other benchmark
+   in deep metric learning. This code is built following https://github.com/gtolias/mom
+   and can easily be extended for other benchmark
    datasets like Cars196, SOP etc.
  
 5. rdml.yml: Contains the required conda environment to be cloned.
