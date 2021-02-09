@@ -1,6 +1,6 @@
 ## Graph-based Unsupervised Metric Learning (GUML)
 ```
-Github repository for our paper: Graph-based Unsupervised Metric Learning
+Github repository containing a precursor for the paper cited below.
 ```
 
 The Repository contains:
@@ -26,4 +26,19 @@ The Repository contains:
    datasets like Cars196, SOP etc.
  
 5. rdml.yml: Contains the required conda environment to be cloned.
+```
+## Citation
+
+If you find the code useful, kindly consider citing the following paper that inspired the repo :
+```
+@article{dutta2020unsupervised,
+  title={Unsupervised Deep Metric Learning via Orthogonality Based Probabilistic Loss},
+  author={Dutta, Ujjal Kr and Harandi, Mehrtash and Sekhar, Chellu Chandra},
+  journal={IEEE Transactions on Artificial Intelligence},
+  volume={1},
+  number={1},
+  pages={74--84},
+  year={2020},
+  publisher={IEEE}
+}
 ```
